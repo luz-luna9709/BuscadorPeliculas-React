@@ -1,0 +1,23 @@
+#inputlg {
+    width: 800px;
+    height: 40px;
+   
+    
+}
+.img-logo{
+  
+    width:60px;
+    height:60px;
+    border-radius:100px;
+    cursor: pointer;
+}
+body{
+    background-color:black !important;
+}
+.inicioSesion{
+    
+}
+
+
+   
+    
